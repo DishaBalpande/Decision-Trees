@@ -16,3 +16,4 @@ I can also export the tree in Graphviz format using the export_graphviz exporter
 
 installed with **conda install python-graphviz**
 
+![download (2)](https://user-images.githubusercontent.com/55234691/91148399-33d25180-e6d7-11ea-8bde-ca6da300465b.png)
