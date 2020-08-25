@@ -13,3 +13,7 @@ DecisionTreeClassifier is a class capable of performing multi-class classificati
 
 
 ![download (2)](https://user-images.githubusercontent.com/55234691/91148399-33d25180-e6d7-11ea-8bde-ca6da300465b.png)
+
+
+I can also export the tree in Graphviz format using the export_graphviz exporter.
+Install **conda install python-grapviz**
