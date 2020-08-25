@@ -18,6 +18,7 @@ I can also export the tree in Graphviz format using the export_graphviz exporter
 
 installed with **conda install python-graphviz**
 
+![iris](https://user-images.githubusercontent.com/55234691/91150980-b27cbe00-e6da-11ea-80a5-45b18e9059ab.png)
 
 
 ## Regression 
