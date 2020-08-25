@@ -17,3 +17,9 @@ I can also export the tree in Graphviz format using the export_graphviz exporter
 installed with **conda install python-graphviz**
 
 ![download (2)](https://user-images.githubusercontent.com/55234691/91148399-33d25180-e6d7-11ea-8bde-ca6da300465b.png)
+
+## Regression 
+
+The decision trees is used to fit a sine curve with addition noisy observation. As a result, it learns local linear regressions approximating the sine curve.
+
+I can see that if the maximum depth of the tree (controlled by the max_depth parameter) is set too high, the decision trees learn too fine details of the training data and learn from the noise, i.e. they overfit.
