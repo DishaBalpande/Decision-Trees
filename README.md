@@ -28,4 +28,5 @@ The decision trees is used to fit a sine curve with addition noisy observation. 
 I can see that if the maximum depth of the tree (controlled by the max_depth parameter) is set too high, the decision trees learn too fine details of the training data and learn from the noise, i.e. they overfit.
 
 
+![download](https://user-images.githubusercontent.com/55234691/91151405-3e8ee580-e6db-11ea-877f-57d214f35331.png)
 
