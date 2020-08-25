@@ -36,3 +36,4 @@ The decision trees is used to predict simultaneously the noisy x and y observati
 
 The maximum depth of the tree (controlled by the max_depth parameter) is set too high, the decision trees learn too fine details of the training data and learn from the noise, i.e. they overfit.
 
+![download (1)](https://user-images.githubusercontent.com/55234691/91152109-2bc8e080-e6dc-11ea-8145-85bf491a7d87.png)
