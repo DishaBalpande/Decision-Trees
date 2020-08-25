@@ -15,3 +15,4 @@ DecisionTreeClassifier takes as input two arrays: an array X, sparse or dense, o
 I can also export the tree in Graphviz format using the export_graphviz exporter. 
 
 installed with **conda install python-graphviz**
+
