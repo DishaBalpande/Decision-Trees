@@ -13,4 +13,5 @@ DecisionTreeClassifier is a class capable of performing multi-class classificati
 DecisionTreeClassifier takes as input two arrays: an array X, sparse or dense, of size [n_samples, n_features] holding the training samples, and an array Y of integer values, size [n_samples], holding the class labels for the training samples
 
 I can also export the tree in Graphviz format using the export_graphviz exporter. 
- installed with **conda install python-graphviz**
+
+installed with **conda install python-graphviz**
